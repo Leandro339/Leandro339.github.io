@@ -1,0 +1,33 @@
+
+.boton{ 
+  display: inline-block;
+  background-color: aqua;
+  padding: 20px 25px;
+ }
+
+ul{
+  font-family: 'Roboto', sans-serif;
+  color: red
+  }
+
+h1,section,ol{
+  font-family: 'Roboto', sans-serif;
+}
+
+
+h2,h3,h4,h5,h6 {
+  font-family: 'Roboto', sans-serif;
+    border: 1px solid black;
+    margin-right: 10px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    padding: 5px
+}
+
+#oficce {
+  color: blue;
+  font-size: 15px;
+}
+
+/**
+Se que oficce debe quedar igual al texto completo, solo lo ubique en css para que se viera que puedo aplicar el atributo Id*/
